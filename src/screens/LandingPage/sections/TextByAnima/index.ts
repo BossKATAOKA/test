@@ -1,0 +1,1 @@
+export { TextByAnima } from "./TextByAnima";

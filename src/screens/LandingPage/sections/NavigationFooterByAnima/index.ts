@@ -1,0 +1,1 @@
+export { NavigationFooterByAnima } from "./NavigationFooterByAnima";

@@ -1,0 +1,1 @@
+export { CopyByAnima } from "./CopyByAnima";
